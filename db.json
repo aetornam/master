@@ -1,37 +1,14 @@
 {
-  "customers": [
-    {
-      "id": 1,
-      "name": "Francis",
-      "shop": "Tilly Store",
-      "planoption": "pro",
-      "startdate": "12/09/2020",
-      "enddate": "12/09/2021",
-      "status": "active",
-      "subscriptionstatus": "active",
-      "shopurl": "http://tillystore.com"
-    },
-    {
-      "id": 2,
-      "name": "matilda",
-      "shop": "mati Store",
-      "planoption": "standard",
-      "startdate": "12/09/2020",
-      "enddate": "12/09/2021",
-      "status": "active",
-      "subscriptionstatus": "active",
-      "shopurl": "http://mati.com"
-    },
-    {
-      "id": 3,
-      "name": "prince",
-      "shop": "prince Store",
-      "planoption": "standard",
-      "startdate": "12/09/2020",
-      "enddate": "12/09/2021",
-      "status": "active",
-      "subscriptionstatus": "active",
-      "shopurl": "http://p.crincesote.com"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
