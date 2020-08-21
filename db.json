@@ -1,8 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "customers": [
+    { "id": 1, 
+       "name": "francis", 
+       "shop":"tillyshop", 
+       "plan":"pro",
+       "startdate":"10/09/2020",
+       "enddate":"10/09/2021",
+       "status":"active",
+       "subscriptionstatus":"active",
+       "url":"tillyshop"
+    },
+    { "id": 1, 
+       "name": "mati", 
+       "shop":"mati shop", 
+       "plan":"standard",
+       "startdate":"10/09/2020",
+       "enddate":"10/09/2021",
+       "status":"active",
+       "subscriptionstatus":"active",
+       "url":"matishop"
+    },
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
