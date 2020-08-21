@@ -1,0 +1,37 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Francis",
+      "shop": "Tilly Store",
+      "planoption": "pro",
+      "startdate": "12/09/2020",
+      "enddate": "12/09/2021",
+      "status": "active",
+      "subscriptionstatus": "active",
+      "shopurl": "http://tillystore.com"
+    },
+    {
+      "id": 2,
+      "name": "matilda",
+      "shop": "mati Store",
+      "planoption": "standard",
+      "startdate": "12/09/2020",
+      "enddate": "12/09/2021",
+      "status": "active",
+      "subscriptionstatus": "active",
+      "shopurl": "http://mati.com"
+    },
+    {
+      "id": 3,
+      "name": "prince",
+      "shop": "prince Store",
+      "planoption": "standard",
+      "startdate": "12/09/2020",
+      "enddate": "12/09/2021",
+      "status": "active",
+      "subscriptionstatus": "active",
+      "shopurl": "http://p.crincesote.com"
+    },
+  ]
+}
