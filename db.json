@@ -3,9 +3,9 @@
     { "id": 1, "username": "francis", "shop": "tillyshop", "plan": "pro", "startdate": "10/09/2020", "enddate": "10/09/2021", "status": "active", "subscriptionstatus": "active", "url": "tillyshop"},
    { "id": 2, "username": "matilda", "shop": "matishop", "plan": "standard", "startdate": "10/09/2020", "enddate": "10/09/2021", "status": "active", "subscriptionstatus": "active", "url": "matishop"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "users": [
+    { "id": 1, "name": "admin", "password": 12345 },
+    { "id": 2, "name": "user", "password": 12345 }
   ],
   "profile": {
     "name": "typicode"
